@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aromanro&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromanro&theme=tokyonight&count_private=true)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aromanro&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromanro&theme=tokyonight&count_private=true)]
 ![](https://visitor-badge.laobi.icu/badge?page_id=aromanro.aromanro)
