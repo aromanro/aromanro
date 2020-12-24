@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromanro&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aromanro&show_icons=true&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=aromanro.aromanro)
