@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to the [Computational Physics Reporitories](https://compphys.go.ro)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromanro&theme=tokyonight&count_private=true&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aromanro&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromanro&theme=tokyonight&count_private=true&layout=compact)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=aromanro.aromanro)
