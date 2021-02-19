@@ -22,3 +22,5 @@ Welcome to the [Computational Physics Blog](https://compphys.go.ro) Repositories
 -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=aromanro.aromanro)
+
+![alt text](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aromanro)
