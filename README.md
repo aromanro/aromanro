@@ -19,7 +19,7 @@ Welcome to the [Computational Physics Blog](https://compphys.go.ro) Repositories
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromanro&theme=tokyonight&count_private=true&layout=compact)
 -->
-![codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aromanro)
+![codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aromanro&from=github)
 ![codersrank-stats-img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aromanro)
 ![](https://visitor-badge.laobi.icu/badge?page_id=aromanro.aromanro)
 
