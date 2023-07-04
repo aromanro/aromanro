@@ -21,5 +21,6 @@ Welcome to the [Computational Physics Blog](https://compphys.go.ro) Repositories
 -->
 ![codersrank-badge-img](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aromanro)
 ![codersrank-stats-img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aromanro)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aromanro)](https://github.com/aromanro/github-profile-trophy)
 ![](https://visitor-badge.laobi.icu/badge?page_id=aromanro.aromanro)
 
